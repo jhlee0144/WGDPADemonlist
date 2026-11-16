@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/bqC_9anVyHQ",
     "percentToQualify": "80",
     "password": "Free To Copy",
-    "records": [
+    "records": [   
+        {
+         "user": "Wtrader",
+         "link": "https://youtu.be/pu4m4mpRlhI?si=260TgCNDbmdoB8IX",
+         "percentage": 100,
+         "hz": 240
+     }
     ]
 }
