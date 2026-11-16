@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "Not Copyable",
      "records": [
+     {
+         "user": "Wtrader",
+         "link": "https://youtu.be/pu4m4mpRlhI?si=260TgCNDbmdoB8IX",
+         "percentage": 100,
+         "hz": 240
+     }
     ]
 }
